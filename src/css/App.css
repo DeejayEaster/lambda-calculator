@@ -1,5 +1,5 @@
 .container {
-  background-color: #c00025;
+  background-color: #111;
   width: 100%;
   max-width: 450px;
   border-radius: 15px;
@@ -8,6 +8,10 @@
 }
 .container .logo-container {
   margin: 25px 0 0 25px;
+}
+.container .button {
+  border: none;
+  outline: none;
 }
 .container .App {
   padding: 1rem;
@@ -44,7 +48,7 @@
   width: 5rem;
   border-radius: 50px;
   color: white;
-  background-color: #3c58b3;
+  background-color: #54a869;
   font-size: 1.8rem;
   box-shadow: 1px 2px #322c2d;
   margin-right: 20px;
@@ -54,7 +58,7 @@
   width: 5rem;
   border-radius: 50px;
   color: white;
-  background-color: #2d1e7a;
+  background-color: #7851a9;
   font-size: 1.8rem;
   box-shadow: 1px 2px #322c2d;
   margin-right: 20px;
@@ -65,7 +69,7 @@
   width: 11rem;
   border-radius: 50px;
   color: white;
-  background-color: #2d1e7a;
+  background-color: #7851a9;
   font-size: 1.8rem;
   margin-right: 1.6rem;
 }
@@ -78,7 +82,7 @@
   width: 5rem;
   border-radius: 50px;
   color: white;
-  background-color: #47a9e9;
+  background-color: #492a6e;
   font-size: 1.8rem;
   box-shadow: 1px 2px #322c2d;
   margin-bottom: 10px;
